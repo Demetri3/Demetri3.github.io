@@ -1,2 +1,2 @@
-# demetri3.github.io
+Dion Demetrius
 My Portfolio that shows some of my technical abilities.
