@@ -1,4 +1,3 @@
-# Network Professional
 <b>Technical Skills: Python, SQL, AWS, Azure, Virtualization, Firewall, Network Administration </b>
 
 ### Education
@@ -6,4 +5,3 @@
 - Computer Systems Technology - Networking Diploma (GPA:3)
 - Pierre Elliot Trudeau High School Diploma
 
-### 
