@@ -3,4 +3,4 @@ title: My Portfolio
 #description: text below image
 show_downloads: true
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-
+footer_menu: footer
